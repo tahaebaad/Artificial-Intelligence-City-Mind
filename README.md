@@ -1,8 +1,8 @@
 # CityMind: Urban Intelligence & Emergency Simulation
 
-CityMind is a 10×10 grid-based urban simulation designed to solve complex city planning and disaster-response problems. The project integrates 5 distinct AI challenges into a single, synchronized environment where every decision—from where a hospital is built to how an ambulance reroutes during a flood—is handled by a specific algorithm.
+CityMind is a dynamic, grid-based urban simulation designed to solve complex city planning and disaster-response problems. The system supports highly customizable grid dimensions (ranging from 6 to 15 rows and columns, allowing for non-square layouts like 6×15 or 15x6), integrating 5 distinct AI challenges into a single, synchronized environment. 
 
-The core of the project is a **Shared Graph Architecture**. Unlike simple simulations, CityMind uses a "single source of truth," meaning if one module changes a road or a risk level, every other AI module detects that change instantly in memory.
+The core of the project is a **Shared Graph Architecture**. Every decision—from where a hospital is built to how an ambulance reroutes during a flood—is handled by a specific algorithm interacting with a single source of truth in memory. If one module modifies a road or updates a risk level, every other algorithm detects that change instantly.
 
 ## 🧠 Integrated AI Challenges
 
@@ -37,9 +37,13 @@ A dual-stage ML pipeline that adjusts city behavior based on data.
 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/yourusername/CityMind.git`
-2. Install dependencies: `pip install customtkinter`[cite: 19]
-3. Run the dashboard: `python citymind_gui.py`[cite: 10]
+2. Install dependencies: `pip install customtkinter`
+3. Run the dashboard: `python citymind_gui.py`
 
 ## 👥 Authors
-* **Taha Ebaad, Ahmed Cheema, Warisha Ishtiaq**
-* Developed as a comprehensive AI project, in Spring 2026.
+
+* **Taha Ebaad**
+* **Ahmed Cheema**
+* **Warisha Ishtiaq**
+
+Built for the Artificial Intelligence, Spring 2026.

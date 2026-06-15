@@ -46,4 +46,4 @@ A dual-stage ML pipeline that adjusts city behavior based on data.
 * **Ahmed Cheema**
 * **Warisha Ishtiaq**
 
-Built for the Artificial Intelligence, Spring 2026.
+Built for the Artificial Intelligence Course, Spring 2026.

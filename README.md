@@ -41,5 +41,5 @@ A dual-stage ML pipeline that adjusts city behavior based on data.
 3. Run the dashboard: `python citymind_gui.py`[cite: 10]
 
 ## 👥 Authors
-* [Your Name]
-* Developed as a comprehensive AI & Data Structures project.
+* [Taha Ebaad, Ahmed Cheema, Warisha Ishtiaq]
+* Developed as a comprehensive AI project, in Spring 2026.

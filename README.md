@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28971263/README.md)
 # CityMind: Urban Intelligence & Emergency Simulation
 
 CityMind is a 10×10 grid-based urban simulation designed to solve complex city planning and disaster-response problems. The project integrates 5 distinct AI challenges into a single, synchronized environment where every decision—from where a hospital is built to how an ambulance reroutes during a flood—is handled by a specific algorithm.

@@ -45,5 +45,5 @@ A dual-stage ML pipeline that adjusts city behavior based on data.
 * **Taha Ebaad**
 * **Ahmed Cheema**
 * **Warisha Ishtiaq**
-
+🔗 Read the detailed technical breakdown and discussion of this project on my [LinkedIn]([YOUR_LINKEDIN_POST_LINK_HERE](https://www.linkedin.com/posts/taha-ebaad-819b8328b_%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%9D-and-%F0%9D%90%9B%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%AD-%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-activity-7472382205021917184-qzC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZ5lNUBO_-anndHWlDvE3UmJfwqGNORPsk)).
 Built for the Artificial Intelligence Course, Spring 2026.

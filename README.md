@@ -31,9 +31,9 @@ A dual-stage ML pipeline that adjusts city behavior based on data.
 * **Integration:** These risk levels are fed back into the graph as travel-cost multipliers, incentivizing ambulances to avoid high-crime areas.
 
 ## 🛠️ Technical Stack
-* **Language:** Python 3.x[cite: 10]
+* **Language:** Python 3.12
 * **GUI:** CustomTkinter (Multi-threaded to handle real-time animations and background AI calculations)
-* **Graph Logic:** Adjacency lists with dynamic weight refreshing[cite: 18]
+* **Graph Logic:** Adjacency lists with dynamic weight refreshing
 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/yourusername/CityMind.git`
